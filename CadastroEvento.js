@@ -1,3 +1,8 @@
+var DataDoEvento = 06/12/2021
+if (DataDoEvento.length <06/12/2021) {
+    console.log("Esta data já passou,escolha uma data futura")
+}
+
 var Idade = 18
 if (Idade <18) {
     console.log("Não permitimos eventos para menores de 18 anos")
@@ -12,4 +17,5 @@ console.log("É possível cadastrar até 100 participantes no evento")
 } else {
     console.log ("Você excedeu o número máximo de 100 participantes")
 }
+
 
